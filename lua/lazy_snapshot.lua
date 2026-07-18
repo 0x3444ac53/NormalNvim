@@ -91,7 +91,6 @@ return {
   { "tzachar/highlight-undo.nvim", commit = "ee32e12693d70e66f954d09a504a7371d110fc27" },
   { "windwp/nvim-autopairs", commit = "59bce2eef357189c3305e25bc6dd2d138c1683f5" },
   { "windwp/nvim-ts-autotag", commit = "8e1c0a389f20bf7f5b0dd0e00306c1247bda2595" },
-  { "zbirenbaum/copilot.lua", commit = "ef4bfc579b404c531c1738bacca82ed61501d877" },
   { "zeioth/NormalSnippets", commit = "ef841ad4a0ccc6144d605cd2b4a874b04b295cb8" },
   { "zeioth/compiler.nvim", version = "^4" },
   { "zeioth/distroupdate.nvim", version = "^2" },
